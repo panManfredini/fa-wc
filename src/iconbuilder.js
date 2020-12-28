@@ -27,7 +27,7 @@ iconStyleTemplate.innerHTML = `
     display:inline;
 }
 svg{
-    height: var(--icon-size,1.2rem);
+    height: var(--icon-size,1rem);
 }
 path{
     fill: var(--icon-color,hsl(0, 0%, 41%));
